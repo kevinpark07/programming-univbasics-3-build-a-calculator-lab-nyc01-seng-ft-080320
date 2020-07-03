@@ -5,7 +5,7 @@ adding_numbers
 end
 
 def subtraction(num1, num2)
-subtracting_numbers = num2 - num1
+subtracting_numbers = num1 - num2
 puts subtracting_numbers
 subtracting_numbers
 end
